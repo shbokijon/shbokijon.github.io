@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shokhrukh Bokijonov | CV</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Shokhrukh Bokijonov</h1>
+        <p>Teacher-Assistant | University of Geological Sciences, Department of Geophysics</p>
+        <p>Email: <a href="mailto:geofizikman@gmail.com">geofizikman@gmail.com</a> | ORCID: 0000-0002-0759-1283</p>
+    </header>
+
+    <main>
+        <section id="education">
+            <h2>Ta'lim</h2>
+            <ul>
+                <li><strong>Pukyong National University, South Korea</strong> <br> PhD in Energy Resources Engineering (Mart 2020 – Hozirgacha) | GPA - 3.97/4.5</li>
+                <li><strong>Pusan National University, South Korea</strong> <br> MSc in Geological Sciences (Mart 2019 – Fevral 2020)</li>
+                <li><strong>National University of Uzbekistan</strong> <br> MSc in Geophysics (Sentyabr 2016 – Iyul 2018) | GPA - 3.7/4.0</li>
+                <li><strong>National University of Uzbekistan</strong> <br> BSc in Geophysics (Sentyabr 2012 – Iyun 2016) | GPA - 3.4/4.0</li>
+            </ul>
+        </section>
+
+        <section id="experience">
+            <h2>Tajriba</h2>
+            <ul>
+                <li><strong>Teacher-Assistant</strong> - University of Geological Sciences, Tashkent, Uzbekistan (Avgust 2023 – Hozirgacha)</li>
+                <li><strong>Researcher</strong> - Geo-ICT Lab, Pukyong National University (Mart 2022 – Sentyabr 2022)</li>
+                <li><strong>Research Assistant</strong> - Geo-ICT Lab, Pukyong National University (Mart 2020 – Fevral 2022)</li>
+                <li><strong>Research Assistant</strong> - Environmental Hydrogeology Lab, Pusan National University (Mart 2019 – Sentyabr 2019)</li>
+                <li><strong>Technical Geophysicist</strong> - UzbekGeophysics JSC (Sentyabr 2018 – Yanvar 2019)</li>
+                <li><strong>Technical Assistant</strong> - Institute of Seismology, Uzbekistan (Oktyabr 2014 – Sentyabr 2015)</li>
+            </ul>
+        </section>
+
+        <section id="skills">
+            <h2>Ko'nikmalar</h2>
+            <ul>
+                <li>Geofizika: Seismik tahlil, gravimetriya, magnitometrik va elektr qarshilik (ERT)</li>
+                <li>Dasturlash: Python (NumPy, Pandas, Matplotlib, TensorFlow)</li>
+                <li>Geo-tahlil dasturlari: MODFLOW, ArcGIS, QGIS, ZondRes2D, IPI2Win</li>
+                <li>Ma'lumotlar tahlili: Sun'iy intellekt, chuqur o‘rganish, statistik model yaratish</li>
+                <li>Soft Skills: Tanqidiy fikrlash, muammoni hal qilish, muloqot, vaqt boshqaruvi</li>
+            </ul>
+        </section>
+
+        <section id="certificates">
+            <h2>Sertifikatlar</h2>
+            <ul>
+                <li>IBM Data Science Professional Certificate</li>
+                <li>Mathematics for Machine Learning – Imperial College London</li>
+                <li>Google IT Support Professional Certificate</li>
+                <li>NASA ARSET Remote Sensing Certificate</li>
+                <li>KIIP Korean Language Certificate – Intermediate Level 4</li>
+            </ul>
+        </section>
+
+        <section id="languages">
+            <h2>Tillar</h2>
+            <ul>
+                <li>O‘zbek: Ona tili</li>
+                <li>Ingliz tili: Mukammal (IELTS 5.5)</li>
+                <li>Koreys tili: O‘rtacha (KIIP Level 4)</li>
+                <li>Turk tili: Yaxshi</li>
+                <li>Rus tili: Boshlang‘ich</li>
+            </ul>
+        </section>
+
+        <section id="referees">
+            <h2>Rekomendatsiya beruvchilar</h2>
+            <ul>
+                <li>Dr. Ilkhom Alimukhamedov - <a href="mailto:ilhom75@mail.ru">ilhom75@mail.ru</a></li>
+                <li>Professor Radjabov Shukhrat - <a href="mailto:radjabovs@mail.ru">radjabovs@mail.ru</a></li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Shokhrukh Bokijonov. Barcha huquqlar himoyalangan.</p>
+    </footer>
+</body>
+</html>
