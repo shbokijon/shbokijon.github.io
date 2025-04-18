@@ -21,9 +21,9 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "UGS Profile CC.png"
+  avatar           : "UGS_Profile_CC.png"
   name             : "Shokhrukh Bokijonov"
-  bio              : "Shokhrukh Bokijonov is a Teaching Assistant in the Department of Geology and Geophysics of Mineral Deposits at the University of Geological Sciences in Tashkent. He holds an MSc in Geophysics from the National University of Uzbekistan, where he analyzed tectonic and oil/gas‑bearing properties of the Fergana Basin. His work centers on geophysical inverse methods, Python‑based data visualization"
+  bio              : "Geophysicist, TA"
   location         : "Tashkent"
   employer         : "University of Geological Sciences"
   uri              : # URL
